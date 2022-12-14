@@ -11,12 +11,16 @@
     "cdk": "cdk"
   },
   "devDependencies": {
+    "@types/aws-lambda": "^8.10.109",
+    "@types/aws-sdk": "^2.7.0",
+    "@types/axios": "^0.14.0",
     "@types/jest": "^27.5.2",
     "@types/node": "10.17.27",
     "@types/prettier": "2.6.0",
-    "jest": "^27.5.1",
-    "ts-jest": "^27.1.4",
     "aws-cdk": "2.51.0",
+    "jest": "^27.5.1",
+    "snyk-api-ts-client": "^1.10.0",
+    "ts-jest": "^27.1.4",
     "ts-node": "^10.9.1",
     "typescript": "~3.9.7"
   },
